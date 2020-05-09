@@ -1,0 +1,5 @@
+File four
+
+added by perf-test
+
+update from new-perf-test
